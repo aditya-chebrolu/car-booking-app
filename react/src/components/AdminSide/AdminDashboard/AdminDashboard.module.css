@@ -1,0 +1,59 @@
+.userprofile >div{
+    display: inline-block;
+}
+
+.box{
+    border-radius: 15px;
+    padding: 20px; 
+    height: 325px; 
+    
+}
+
+.box1{
+   
+    width: 400px;
+    height: 200px;
+    border-radius: 15px;
+    margin: 20px;
+    text-align: center;
+    background-color: #ededed;
+    padding: 10%;
+}
+.box2{
+   
+    width: 400px;
+    height: 150px;
+    border-radius: 15px;
+    margin: 20px;
+    text-align: center;
+    padding: 10%;
+    background-color: #ededed;
+    /* border-radius: 15px; */
+    /* padding: 20px;  */
+    
+}
+.heading{
+    text-align: center;
+    font-size: 25px;
+}
+
+.line{
+    width:50%;
+}
+
+.btn1{
+    margin:10px;
+    color:white;
+}
+
+/* admin booking */
+.table thead tr th, .table tbody tr td {
+    border: none;
+    text-align: center;
+  }
+.goa{
+    border-top-left-radius: 10px;
+}
+.aog{
+    border-top-right-radius: 10px;
+}

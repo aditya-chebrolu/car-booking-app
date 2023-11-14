@@ -1,0 +1,46 @@
+/* ADMIN PROFILE */
+.box
+{
+    border-radius: 10px;
+    background-color: #eaedee;
+    height: 300px;
+}
+
+.box2
+{
+    height:100vh;
+    background-color: #eaedee;
+}
+
+.btn
+{
+    background-color: #0275d8;
+    border-radius: 10px;
+    width:200px
+}
+
+.btn:hover{
+background-color:#0169c2;
+}
+
+/* EDIT PROFILE */
+
+.signupbox{
+    background-color: #ededed;
+    border-radius: 10px;
+}
+
+
+.fields form> div >select,input[type=text],input[type=email],input[type=password]
+{
+    background-color: #cacaca;
+    border-radius: 7px;
+}
+
+.button{
+    border-radius: 6px;
+    background-color: #0275d8;
+}
+.button:hover{
+    background-color:#015dac;
+}

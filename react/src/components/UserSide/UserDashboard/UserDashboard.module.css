@@ -1,0 +1,72 @@
+.box{
+    margin: 20px;
+    background-color: #e4e6e5;
+    border-radius: 6px;
+    padding: 20px; 
+    height: 60px; 
+}
+
+.divbutton,.divbutton2
+{
+    transition:0.3s
+}
+
+.divbutton:hover{
+    background-color: #cee9ce;
+    box-shadow:1px 10px 52px -12px rgba(0,0,0,0.75);
+    height:65px}
+
+
+.divbutton2:hover
+{
+    background-color: #f7dcdb;
+    box-shadow:1px 10px 52px -12px rgba(0,0,0,0.75);
+    height:65px;
+}
+
+
+.bgstyle{
+    background: #edeeed;
+    border-radius: 10px;
+}
+
+/* CAR BOOKING PAGE */
+.text
+{
+    font-size: 20px;
+}
+
+.shade
+{
+    background: #eff1f2;
+    border-radius: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.left
+{
+    border-radius: 10px;
+    background-color: #eff1f2;
+}
+.left:hover,.shade:hover{
+    background-color: 
+    #e5e8ea;
+}
+
+.click>div
+{
+    cursor:pointer;
+}
+
+/* user booking */
+.table thead tr th, .table tbody tr td {
+    border: none;
+    text-align: center;
+  }
+.goa{
+    border-top-left-radius: 10px;
+}
+.aog{
+    border-top-right-radius: 10px;
+}

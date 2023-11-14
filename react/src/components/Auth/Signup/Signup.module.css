@@ -1,0 +1,16 @@
+.signupbox{
+    background-color: #ededed;
+    border-radius: 10px;
+}
+
+
+.fields form> div >select,input[type=text],input[type=email],input[type=password]
+{
+    background-color: #cacaca;
+    border-radius: 7px;
+}
+
+.button{
+    border-radius: 6px;
+    background-color: #2aa8fd;
+}

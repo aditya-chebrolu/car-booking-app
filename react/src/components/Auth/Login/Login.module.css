@@ -1,0 +1,55 @@
+.loginBox{
+    background-color: #ededed;
+    border-radius: 5px;
+    margin-top: 150px;
+}
+.logintext{
+    font-size: 25px;
+    font-weight: 200px;
+}
+
+.fields
+{
+    background-color: #aaaaaa;
+}
+
+.useractive
+{
+    background-color: #ededed;
+    border-top-left-radius: 5px;
+}
+
+.userinactive
+{
+    border-bottom-right-radius: 10px;
+    box-shadow:1px 1px 4px grey;
+    background-color: #f0f0f0;  
+}
+.adminactive
+{
+    background-color: #ededed;
+    border-top-right-radius: 5px;
+}
+
+.admininactive
+{
+    border-bottom-left-radius: 10px;
+    box-shadow:-1px 1px 4px grey;
+    background-color: #f0f0f0;
+    border-top-right-radius: 5px;
+}
+
+.button{
+    border-radius: 6px;
+    background-color: #2aa8fd;
+    border: none;
+}
+/* super admin */
+.fields2
+{
+    background-color: #aaaaaa;
+    padding: 0.4em;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
